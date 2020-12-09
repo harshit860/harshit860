@@ -3,7 +3,7 @@
 ### I'm a Fullstack developer from INDIA
 
 ### 📫 How to reach me:
-- [Linkedin][https://www.linkedin.com/in/harshit-gakhar-7b3921144/]!
+- https://www.linkedin.com/in/harshit-gakhar-7b3921144/
 - Email: harshitga@gmail.com
 
 <!--
