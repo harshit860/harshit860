@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋, I'm Harshit Gakhar.
+
+### I'm a Fullstack developer from INDIA
+
+### 📫 How to reach me:
+- [Linkedin][https://www.linkedin.com/in/harshit-gakhar-7b3921144/]!
+- Email: harshitga@gmail.com
 
 <!--
 **harshit860/harshit860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
