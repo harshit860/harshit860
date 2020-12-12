@@ -7,9 +7,6 @@
 - Email: harshitga@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit860&langs_count=8)](https://github.com/harshit860/github-readme-stats)
-
-
 <!--
 **harshit860/harshit860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
