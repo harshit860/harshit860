@@ -7,10 +7,10 @@
 - Email: harshitga@gmail.com 
 ___
 # Some Side Projects:-
- ## + [Portfolio](https://harshit860.github.io/)
- ## + [Magic cards](https://harshit860.github.io/Css-Magic-Cards/)
- ## + [Food Cart](https://foodquik.netlify.app/)
- ## + [Hackernews](https://hacekrnewsharshit.netlify.app/)
+  + [Portfolio](https://harshit860.github.io/)
+  + [Magic cards](https://harshit860.github.io/Css-Magic-Cards/)
+  + [Food Cart](https://foodquik.netlify.app/)
+  + [Hackernews](https://hacekrnewsharshit.netlify.app/)
 ___
 # Articles:- 
  ## - [Importance of staying fit as a Developer](https://harshitga.medium.com/importance-of-staying-fit-as-a-programmer-or-in-long-sitting-jobs-a59bfdffff14)
