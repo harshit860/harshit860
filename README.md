@@ -6,7 +6,6 @@
 - https://www.linkedin.com/in/harshit-gakhar-7b3921144/
 - Email: harshitga@gmail.com
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/harshit860/harshit860/master/wave.gif" width="30px">
 <!--
 **harshit860/harshit860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
