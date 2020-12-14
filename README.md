@@ -1,4 +1,4 @@
-### Hi 👋, I'm Harshit Gakhar.
+### Namaste 👋, I'm Harshit Gakhar.
 
 ### I'm a Fullstack developer from INDIA
 
