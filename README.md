@@ -1,4 +1,6 @@
-### Namaste 👋, I'm Harshit Gakhar.
+### Namaste, I'm Harshit Gakhar.
+
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 ### I'm a Fullstack developer from INDIA
 
