@@ -1,5 +1,7 @@
 ### Namaste, I'm Harshit Gakhar.
+![Alt text][id]
 
+wELCOME TO MY GITHUB.
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 ### I'm a Fullstack developer from INDIA
