@@ -13,7 +13,7 @@ ___
   + [Hackernews](https://hacekrnewsharshit.netlify.app/)
 ___
 # Articles:- 
- ## - [Importance of staying fit as a Developer](https://harshitga.medium.com/importance-of-staying-fit-as-a-programmer-or-in-long-sitting-jobs-a59bfdffff14)
+ + [Importance of staying fit as a Developer](https://harshitga.medium.com/importance-of-staying-fit-as-a-programmer-or-in-long-sitting-jobs-a59bfdffff14)
 <!--
 **harshit860/harshit860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
