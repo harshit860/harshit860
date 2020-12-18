@@ -1,20 +1,22 @@
 ### Namaste, I'm Harshit Gakhar :smiley: 
 
 # I'm a Fullstack developer from INDIA
-
+<!--
 # 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harshit-gakhar-7b3921144/)
 - Email: harshitga@gmail.com 
 ___
+-->
+
 # Some Side Projects:-
   + [Portfolio](https://harshit860.github.io/)
   + [Magic cards](https://harshit860.github.io/Css-Magic-Cards/)
   + [Food Cart](https://foodquik.netlify.app/)
   + [Hackernews](https://hacekrnewsharshit.netlify.app/)
-___
+<!--
 # Articles:- 
  + [Importance of staying fit as a Developer](https://harshitga.medium.com/importance-of-staying-fit-as-a-programmer-or-in-long-sitting-jobs-a59bfdffff14)
-<!--
+
 **harshit860/harshit860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
