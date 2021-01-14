@@ -1,6 +1,7 @@
 ### Namaste, I'm Harshit Gakhar :smiley: 
 
 # I'm a Fullstack developer from INDIA
+# Meet me here [Portfolio](https://harshit860.github.io/)
 <!--
 # 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harshit-gakhar-7b3921144/)
@@ -9,7 +10,6 @@ ___
 -->
 
 # Some Side Projects:-
-  + [Portfolio](https://harshit860.github.io/)
   + [Magic cards](https://harshit860.github.io/Css-Magic-Cards/)
   + [Food Cart](https://foodquik.netlify.app/)
   + [Hackernews](https://hacekrnewsharshit.netlify.app/)
