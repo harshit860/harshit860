@@ -1,7 +1,9 @@
-### Namaste, I'm Harshit Gakhar :smiley: 
+# Namaste, I'm Harshit Gakhar :smiley: 
 
-# I'm a Fullstack developer from INDIA
-# 📫 How to reach me : [Harshit Gakhar](https://harshit860.github.io/)
+## I'm a Fullstack developer from INDIA.
+## 🔭 I’m currently working with Plugo India | Floworx.
+## Portfolio : [Harshit Gakhar](https://harshit860.github.io/)
+## 📫 Mail harshitga@gmail.com
 <!--
 # 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harshit-gakhar-7b3921144/)
