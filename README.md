@@ -1,7 +1,7 @@
 # Namaste, I'm Harshit Gakhar :smiley: 
 
 ## I'm a Fullstack developer from INDIA.
-## 🔭 I’m currently working with Plugo India | Floworx.
+## I’m currently working with Plugo India | Floworx.
 ## Portfolio : [Harshit Gakhar](https://harshit860.github.io/)
 ## 📫 Mail harshitga@gmail.com
 <!--
