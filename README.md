@@ -3,13 +3,10 @@
 ## I'm a Fullstack developer from INDIA.
 ## I’m currently working with Plugo India | Floworx.
 ## Portfolio : [Harshit Gakhar](https://harshit860.github.io/)
-## 📫 Mail harshitga@gmail.com
 
 # 🔭 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harshit-gakhar-7b3921144/)
 - Email: harshitga@gmail.com 
-___
-
 
 # Some Side Projects:-
   + [Magic cards](https://harshit860.github.io/Css-Magic-Cards/)
