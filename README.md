@@ -2,7 +2,6 @@
 
 ## I'm a Fullstack developer from INDIA.
 ## Currently working with Plugo India | Floworx.
-## Portfolio : [Harshit Gakhar](https://harshit860.github.io/)
 
 # 🔭 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harshit-gakhar-7b3921144/)
