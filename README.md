@@ -15,7 +15,3 @@
 
 # Articles:- 
  + [Importance of staying fit as a Developer](https://harshitga.medium.com/importance-of-staying-fit-as-a-programmer-or-in-long-sitting-jobs-a59bfdffff14)
-
-# Stats:-
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshit860)]
-
