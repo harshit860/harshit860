@@ -17,4 +17,5 @@
  + [Importance of staying fit as a Developer](https://harshitga.medium.com/importance-of-staying-fit-as-a-programmer-or-in-long-sitting-jobs-a59bfdffff14)
 
 # Stats:-
-  + [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit860)]
+  +[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit860&layout=compact)]
+
