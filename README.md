@@ -1,7 +1,7 @@
 # Namaste, I'm Harshit Gakhar :smiley: 
 
 ## I'm a Fullstack developer from INDIA.
-## Currently working with Plugo India | Floworx.
+
 
 # 🔭 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harshit-gakhar-7b3921144/)
