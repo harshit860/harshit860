@@ -1,7 +1,8 @@
 # Namaste, I'm Harshit Gakhar :smiley: 
 
-## I'm a Fullstack developer from INDIA.
+## I'm a Software Engineer from INDIA.
 
+# Current Working with TVS Next.
 
 # 🔭 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harshit-gakhar-7b3921144/)
